@@ -1,0 +1,11 @@
+metric,value
+reviews,978
+average_rating,4.92
+five_star_reviews,933
+five_star_percent,95.4
+distinct_stores,810
+stores_with_more_than_one_review,115
+reviews_with_text,532
+rate_quality,4.92
+rate_communication,4.91
+rate_commitment,4.92
